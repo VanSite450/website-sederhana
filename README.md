@@ -4,10 +4,10 @@ Proyek ini adalah latihan dasar untuk membuat situs web HTML sederhana dengan be
 Tujuannya untuk mempelajari struktur HTML semantik, navigasi antarhalaman, serta penggunaan tag meta SEO.
 
 ## Halaman Website
-- **index.html** — Halaman Beranda  
-- **proyek.html** — Menampilkan daftar proyek contoh  
-- **artikel.html** — Berisi artikel singkat  
-- **kontak.html** — Memiliki formulir kontak dengan kolom nama, email, dan pesan  
+- **index.html** (Halaman Beranda)  
+- **proyek.html** (Menampilkan daftar proyek contoh)
+- **artikel.html** (Berisi artikel singkat)
+- **kontak.html** (Memiliki formulir kontak dengan kolom nama, email, dan pesan)
 
 ## Tujuan Pembelajaran
 - Membuat beberapa halaman dalam satu situs web  
